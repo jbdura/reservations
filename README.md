@@ -1,3 +1,11 @@
+# Redux Toolkit practice
+
+This project is created for relearning and practicing on RTK workings.
+
+## Tools installed
+
+React-redux and Redux ToolKit - to install `npm install react-redux @reduxjs/toolkit`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
